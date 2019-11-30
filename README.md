@@ -13,4 +13,8 @@ The threshold of the blobs which we want to detect according to - parameter 'thr
 
 The overlap threshold of 2 overlapping blobs, where we delete the smaller one between the two - parameter 'overlap_thresh'.
 
-In the main part, the user can decide the all the parameter values, except the type.
+In the main part at the beginning, the user can decide the all the parameter values, except for the type.
+In the bottom of the file, there is the call for the main function. at this call, the user can choose the type of the blobs.
+
+I used common images used in computer vision courses. The names can be, and should be changed, according to the images you
+want to apply the algorithm on.
