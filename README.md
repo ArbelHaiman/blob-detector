@@ -2,7 +2,7 @@
 An implementation of blob detector using LoG filter with python and opencv.
 The code is enabling the user to choose the following parameters:
 
-# Blobs type: 
+## Blobs type: 
 dark, bright, or both- paremeter 'type'.
 
 # Number of filters to apply:
