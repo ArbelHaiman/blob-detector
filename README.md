@@ -11,6 +11,7 @@ parameter 'levels'.
 paraemter 'sigma'.
 ### The multiplicator:
 parameter 'k'.
+
 The last 3 parameters determine the size of blobs that the agorithm will detect.
 
 ### The threshold of the blobs which we want to detect according to:
